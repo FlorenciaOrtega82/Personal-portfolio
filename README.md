@@ -1,8 +1,36 @@
-# React + Vite
+# Portafolio Personal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido/a a mi portafolio personal! Este proyecto muestra mis habilidades, proyectos y experiencia en desarrollo web.
 
-Currently, two official plugins are available:
+[Link]: ¡Disponible próximamente!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Descripción
+
+Este portafolio está diseñado para presentar mis trabajos y proporcionar información sobre mi formación y competencias. Está construido utilizando [React](https://reactjs.org/) y [Vite](https://vitejs.dev/), con estilos implementados mediante [Tailwind CSS](https://tailwindcss.com/).
+
+## Características
+
+- **Página de inicio**: Introducción y resumen de mis habilidades.
+- **Sobre mí**: Información detallada sobre mi formación y experiencia.
+- **Proyectos**: Galería de proyectos destacados con descripciones y enlaces.
+- **Contacto**: Formulario para que los visitantes puedan ponerse en contacto conmigo.
+
+## Tecnologías Utilizadas
+
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario.
+- **Vite**: Herramienta de construcción rápida para proyectos web modernos.
+- **Tailwind CSS**: Framework de CSS para diseño rápido y responsivo.
+
+Uso
+Explora las diferentes secciones del portafolio para conocer más sobre mí y mis proyectos. Puedes navegar a través de las pestañas de navegación para acceder a las distintas páginas.
+
+Contribuciones
+Actualmente, este proyecto es una representación de mi trabajo personal. Sin embargo, estoy abierta a sugerencias y mejoras. Si deseas contribuir, por favor, abre una "issue" o envía una "pull request".
+
+Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+Contacto
+Si tienes alguna pregunta o deseas ponerte en contacto conmigo, puedes hacerlo a través de [Gmail](florotega055@gmail.com) o visitando mi perfil de [Linkedin](https://www.linkedin.com/in/flor-ortega/).
+
+
