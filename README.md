@@ -31,6 +31,6 @@ Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 Contacto
-Si tienes alguna pregunta o deseas ponerte en contacto conmigo, puedes hacerlo a través de [Gmail](florotega055@gmail.com) o visitando mi perfil de [Linkedin](https://www.linkedin.com/in/flor-ortega/).
+Si tienes alguna pregunta o deseas ponerte en contacto conmigo, puedes hacerlo a través de florotega055@gmail.com o visitando mi perfil de [Linkedin](https://www.linkedin.com/in/flor-ortega/).
 
 
